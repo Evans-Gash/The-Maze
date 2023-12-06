@@ -35,3 +35,6 @@ gcc -Wall -Werror -Wextra -pedantic ./src/*.c -lm -o maze `sdl2-config --cflags`
 
 ## The Maze Report *Status Update*
 https://docs.google.com/document/d/1QoruEySWPLYDsTCxkPL_9bHkufDM8qYJrzDbLi2WBWQ/edit?usp=sharing
+
+## The Maze Presentation Pitch-deck *Slides*
+https://slidesgo.com/editor/share/9ac83e2c-c0dd-42f3-8574-26589e3227ac#rs=link
