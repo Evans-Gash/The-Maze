@@ -38,3 +38,6 @@ https://docs.google.com/document/d/1QoruEySWPLYDsTCxkPL_9bHkufDM8qYJrzDbLi2WBWQ/
 
 ## The Maze Presentation Pitch-deck *Slides*
 https://slidesgo.com/editor/share/9ac83e2c-c0dd-42f3-8574-26589e3227ac#rs=link
+
+## Portfolio Project Blog post *Unveiling the Depths: Crafting a Maze 3D with Raycasting*
+https://evansgashmugambi.blogspot.com/2023/12/unveiling-depths-crafting-maze-3d-with.html
